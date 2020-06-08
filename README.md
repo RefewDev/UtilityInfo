@@ -1,4 +1,4 @@
-# UtilityInfo
+# 🔮 UtilityInfo 🔮
 Utility APP for info of system and other..
 
 **[Click here for download](https://github.com/RefewDev/UtilityInfo/releases)**
