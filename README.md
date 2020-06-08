@@ -1,7 +1,9 @@
 # 🔮 UtilityInfo 🔮
 Utility APP for info of system and other..
 
-**[Click here for download](https://github.com/RefewDev/UtilityInfo/releases)**
+## How install
+Download "UtilityInfo-setup.exe" from releases section
+**[Click here for download](https://github.com/RefewDev/UtilityInfo/releases/download/v1.0/UtilityInfo-setup.exe)**
 
 ![pic](https://github.com/RefewDev/UtilityInfo/blob/master/main.png)
 ![pic2](https://github.com/RefewDev/UtilityInfo/blob/master/system.png)
