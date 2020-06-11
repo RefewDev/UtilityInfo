@@ -15,6 +15,8 @@ Download "UtilityInfo-setup.exe" from releases section
 
 ![pic](https://github.com/RefewDev/UtilityInfo/blob/master/utinfo.png)
 ![picx](https://github.com/RefewDev/UtilityInfo/blob/master/home.png)
+![pic2](https://github.com/RefewDev/UtilityInfo/blob/master/network.jpg)
+![pic3](https://github.com/RefewDev/UtilityInfo/blob/master/system2.png)
 
 **`FREE PRODUCT - You are not authorized to resell this product as a product developed by yourself.`**
 
