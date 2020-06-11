@@ -13,9 +13,8 @@ Download "UtilityInfo-setup.exe" from releases section
     Well, it is shown for any program that requires administrative privileges to run (and all setup programs do). 
     
 
-![pic](https://github.com/RefewDev/UtilityInfo/blob/master/main.png)
-![pic2](https://github.com/RefewDev/UtilityInfo/blob/master/system.png)
-![pic3](https://github.com/RefewDev/UtilityInfo/blob/master/network.png)
+![pic](https://github.com/RefewDev/UtilityInfo/blob/master/utinfo.png)
+![picx](https://github.com/RefewDev/UtilityInfo/blob/master/home.png)
 
 **`FREE PRODUCT - You are not authorized to resell this product as a product developed by yourself.`**
 
