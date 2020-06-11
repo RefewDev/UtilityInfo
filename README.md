@@ -4,7 +4,7 @@ Utility APP for info of system and other..
 ## How install
 Download "UtilityInfo-setup.exe" from releases section
 
-**[Click here for download](https://github.com/RefewDev/UtilityInfo/releases/download/v1.0/UtilityInfo-setup.exe)**
+**[Click here for download](https://github.com/RefewDev/UtilityInfo/releases)**
 
 ### Setup is a Virus?
 ------
